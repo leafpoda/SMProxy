@@ -1,6 +1,6 @@
 {
     "main": "bin/SMProxy",
-    "output": "SMProxy.phar",
+    "output": "SMProxy",
     "alias": "deploy",
     "directories": [
         "bin",
