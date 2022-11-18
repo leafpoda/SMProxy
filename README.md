@@ -27,6 +27,7 @@
 ## Swoole MySQL Proxy
 
 一个基于 MySQL 协议，Swoole 开发的MySQL数据库连接池。
+docker run -it --name smproxy -v /home/cayden/smProxy/conf:/usr/local/smproxy/conf -p 30003:3366 80c38ccf0a0c
 
 ## 原理
 
